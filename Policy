@@ -1,49 +1,57 @@
-Nivatech Delivery Privacy Policy
+Privacy Policy
 
-1. Introduction
-Welcome to Nivatech Market, a service of Nivatech. Your privacy is our priority. This privacy policy outlines how we collect, use, and safeguard your personal information when you use our multi-vendor platform.
+This is the Nivatech Delivery Privacy Policy
 
-2. Information We Collect
-2.1 Information Provided by the User
+This policy explains how Nivatech Market, a service of Nivatech, collects, uses, shares, and protects personal information that we collect through our multi-vendor platform ("the Site", "we" or "us"). Nivatech is committed to ensuring that your privacy is protected. By using this Site, you agree to these policies.
 
-Registration Information: Name, email address, phone number, physical address.
-Payment Information: Credit card details or other billing information.
-2.2 Information Collected Automatically
+How the Information is Collected
+Information Provided by the User
+You provide us with personal information such as your name, email address, phone number, and physical address when you register on our platform. Our app may also fetch your location information through Google’s geolocation API and street address API if you have enabled location services on your device. This allows us to enhance your experience by offering location-specific services, such as identifying nearby vendors for product delivery.
 
-Browsing Data: IP address, device information, browser type, pages visited, duration of visit.
-Cookies and Similar Technologies: We use cookies to enhance your user experience and track your preferences.
-3. Use of Information
-We use your information to:
+Information Provided by Web Browser
+We may collect certain information automatically when you use the Site, such as your IP address, device type, browser type, the pages you visit, and the time you spend on those pages. This information helps us understand how you use our Site and enables us to improve our services. This information is generally anonymous and collected on an aggregate basis.
 
-Provide and Improve Our Services: Process transactions, customer service, and personalize user experience.
-Security: Prevent fraud and protect our users.
-Marketing and Communication: Send newsletters, special offers, and product updates (with your explicit consent).
-4. Sharing of Information
-We only share your personal information with third parties in the following situations:
+Payment Information
+To process your payments for services, we use third-party payment gateways (e.g., Stripe, PayPal) with 3D authentication. We do not store, see, or use your bank card details—payment data is securely processed by these gateways.
 
-Third-Party Sellers: To process your orders and deliveries.
-Service Providers: Including payment processors, hosting services, and other technical providers.
-Legal Compliance: To comply with legal obligations or protect our rights.
-5. Information Security
-We implement technical and organizational measures to protect your information from unauthorized access, alteration, disclosure, or destruction. All data is transmitted securely using modern encryption (e.g., HTTPS).
+Explicit Location Data Disclosure
+Our app uses your location data through Google’s geolocation API and street address API to facilitate food delivery services. We use this data to identify your current location for delivery but do not store this information beyond the session duration unless necessary for order completion. The location data is processed during active use and is discarded afterward unless otherwise needed for temporary order fulfillment.
 
-6. Your Rights
-You have the following rights regarding your personal information:
+How the Information is Used
+Providing and Improving Our Services
+We use the information collected to provide and improve our services, process transactions, and enhance the user experience. This includes personalizing content and communications, ensuring site security, and developing new features.
 
-Access: Request access to your personal information.
-Correction: Request correction of any inaccurate information.
-Deletion: Request deletion of your personal information under certain conditions.
-Withdraw Consent: Withdraw your consent at any time where we rely on your consent to process your information.
-7. Cookies
-We use cookies to improve your experience on our site. You can manage your cookie preferences through your browser settings. For detailed information, please refer to our Cookie Policy.
+Marketing and Communications
+With your explicit consent, we may use your information to send newsletters, special offers, and product updates. You can opt-out of these communications at any time.
 
-8. Changes to the Privacy Policy
-We may update this privacy policy periodically. Significant changes will be communicated through notifications on our site, and the revision date will be updated accordingly.
+Data Retention and Deletion Policy
+We do not retain user data beyond the necessary time required to complete transactions and fulfill orders. Location data, for example, is used during the session for delivery and discarded after the order is completed unless retained for delivery logs. Users can request the deletion of their personal information by contacting us directly.
 
-9. Contact Us
+Information Sharing
+Third-Party Sellers
+We may share your personal information with third-party sellers to process your orders and facilitate deliveries.
+
+Service Providers
+We also share information with service providers who assist in operating our platform, such as payment processors, hosting services, and technical support.
+
+Legal Compliance
+We may disclose your information if required by law or to protect our rights and safety.
+
+Data Security Measures
+We use industry-standard security measures to protect your personal information. For payments, we rely on secure third-party gateways (Stripe, PayPal) that use encryption and 3D authentication to process transactions securely. We do not see, store, or manage your payment information.
+
+Your Rights
+You have the right to access, correct, or delete your personal information and withdraw consent for its processing where applicable. You can manage these settings in your account or contact us directly.
+
+Cookies
+We use cookies to improve your experience on our Site. You can manage your cookie preferences through your browser settings. For more details, refer to our Cookie Policy.
+
+Changes to the Privacy Policy
+We may update this privacy policy periodically. Significant changes will be communicated through notifications on our Site, and the revision date will be updated accordingly.
+
+Contact Us
 For questions or concerns regarding this privacy policy, please contact us at:
 
 Email: info@nivatech.elementfx.com
 Address: Nivatech, 1 Ronelle Street, Haazandal, Brackenfell, 7560.
 Revision Date: July 15, 2024
-
