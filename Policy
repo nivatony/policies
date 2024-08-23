@@ -15,17 +15,27 @@ Payment Information
 To process your payments for services, we use third-party payment gateways (e.g., Stripe, PayPal) with 3D authentication. We do not store, see, or use your bank card details—payment data is securely processed by these gateways.
 
 Explicit Location Data Disclosure
-Our app uses your location data through Google’s geolocation API and street address API to facilitate food delivery services. We use this data to identify your current location for delivery but do not store this information beyond the session duration unless necessary for order completion. The location data is processed during active use and is discarded afterward unless otherwise needed for temporary order fulfillment.
+Our app uses your location data through Google’s geolocation API and street address API to facilitate food delivery services. We use this data to identify your current location for delivery, both when the app is actively in use and, with your consent, in the background to improve the efficiency of our delivery services.
+
+Background Location Data Use: Nivatech Delivery collects location data to enable real-time delivery tracking and ensure accurate delivery even when the app is closed or not in use. This helps us improve delivery accuracy, estimate arrival times, and enhance overall customer experience.
+
+Data Retention: Location data is used during the active session and may be retained temporarily to facilitate delivery tracking. We do not retain this data for long-term use unless it is necessary for delivery logs.
+
+Prominent Disclosure & Consent Requirement
+Before accessing your location in the background, we will display a clear in-app disclosure stating:
+
+“Nivatech Delivery collects location data to enable real-time delivery tracking, even when the app is closed or not in use, to help improve delivery accuracy and ensure efficient service.”
+This disclosure will be presented in the normal flow of the app, and you will be asked to provide explicit consent before any location data is accessed. You must actively consent by clicking a confirmation button. If you do not consent, the location data will not be collected.
 
 How the Information is Used
 Providing and Improving Our Services
 We use the information collected to provide and improve our services, process transactions, and enhance the user experience. This includes personalizing content and communications, ensuring site security, and developing new features.
 
 Marketing and Communications
-With your explicit consent, we may use your information to send newsletters, special offers, and product updates. You can opt-out of these communications at any time.
+With your explicit consent, we may use your information to send newsletters, special offers, and product updates. You can opt out of these communications at any time.
 
 Data Retention and Deletion Policy
-We do not retain user data beyond the necessary time required to complete transactions and fulfill orders. Location data, for example, is used during the session for delivery and discarded after the order is completed unless retained for delivery logs. Users can request the deletion of their personal information by contacting us directly.
+We do not retain user data beyond the necessary time required to complete transactions and fulfill orders. Location data, for example, is used during the session for delivery purposes and is discarded after the order is completed unless retained for delivery logs. Users can request the deletion of their personal information by contacting us directly.
 
 Information Sharing
 Third-Party Sellers
@@ -55,3 +65,4 @@ For questions or concerns regarding this privacy policy, please contact us at:
 Email: info@nivatech.elementfx.com
 Address: Nivatech, 1 Ronelle Street, Haazandal, Brackenfell, 7560.
 Revision Date: July 15, 2024
+
