@@ -1,68 +1,281 @@
-Privacy Policy
+Avis de confidentialité de Nivatech. 
 
-This is the Nivatech Delivery Privacy Policy
+Introduction / II. Présentation / III. Collecte et utilisation des données / IV. Choix et transparence / V. Mentions légales 
 
-This policy explains how Nivatech Market, a service of Nivatech, collects, uses, shares, and protects personal information that we collect through our multi-vendor platform ("the Site", "we" or "us"). Nivatech is committed to ensuring that your privacy is protected. By using this Site, you agree to these policies.
+I. Introduction 
 
-How the Information is Collected
-Information Provided by the User
-You provide us with personal information such as your name, email address, phone number, and physical address when you register on our platform. Our app may also fetch your location information through Google’s geolocation API and street address API if you have enabled location services on your device. This allows us to enhance your experience by offering location-specific services, such as identifying nearby vendors for product delivery.
+Lorsque vous utilisez Nivatech mart ou Nivatech Delivery, vous nous confiez vos données personnelles. Nous nous engageons à préserver cette confiance. Cela commence par vous aider à comprendre nos pratiques en matière de confidentialité. Cet avis décrit les données personnelles (« données ») que nous collectons, la manière dont elles sont utilisées et partagées, ainsi que vos choix concernant ces données. Nous vous recommandons de le lire conjointement avec notre aperçu de la confidentialité, qui met en évidence les informations sur nos pratiques de confidentialité et fournit des résumés des données que nous collectons et de la manière dont nous les utilisons. 
 
-Information Provided by Web Browser
-We may collect certain information automatically when you use the Site, such as your IP address, device type, browser type, the pages you visit, and the time you spend on those pages. This information helps us understand how you use our Site and enables us to improve our services. This information is generally anonymous and collected on an aggregate basis.
+II. Aperçu 
 
-Payment Information
-To process your payments for services, we use third-party payment gateways (e.g., Stripe, PayPal) with 3D authentication. We do not store, see, or use your bank card details—payment data is securely processed by these gateways.
+A. Portée 
 
-Explicit Location Data Disclosure
-Our app uses your location data through Google’s geolocation API and street address API to facilitate food delivery services. We use this data to identify your current location for delivery, both when the app is actively in use and, with your consent, in the background to improve the efficiency of our delivery services.
+Cet avis s'applique aux utilisateurs des applications, sites Web et autres services de Nivatech mart dans le monde entier. Cet avis décrit la manière dont Nivatech  et ses sociétés affiliées collectent et utilisent les données. Cet avis s'applique à tous les utilisateurs de Nivatech mart et  Nivatech delivery dans le monde, à moins qu'ils n'utilisent un service couvert par un avis de confidentialité distinct, tel que Nivatech travel  ou Nivatech  (Afrique du Sud). Cet avis s'applique spécifiquement à : 
 
-Background Location Data Use: Nivatech Delivery collects location data to enable real-time delivery tracking and ensure accurate delivery even when the app is closed or not in use. This helps us improve delivery accuracy, estimate arrival times, and enhance overall customer experience.
+  
 
-Data Retention: Location data is used during the active session and may be retained temporarily to facilitate delivery tracking. We do not retain this data for long-term use unless it is necessary for delivery logs.
+Client (destinateur de la commande) : ceux qui demandent ou reçoivent des services de commerce en ligne et des services connexes, y compris des services de livraison et de retour de colis via Nivatech Delivery, via leur compte Nivatech. 
 
-Prominent Disclosure & Consent Requirement
-Before accessing your location in the background, we will display a clear in-app disclosure stating:
+Livreurs : ceux qui fournissent des services de livraison via Nivatech Delivery. 
 
-“Nivatech Delivery collects location data to enable real-time delivery tracking, even when the app is closed or not in use, to help improve delivery accuracy and ensure efficient service.”
-This disclosure will be presented in the normal flow of the app, and you will be asked to provide explicit consent before any location data is accessed. You must actively consent by clicking a confirmation button. If you do not consent, the location data will not be collected.
+Utilisateurs invités : ceux qui n'ont pas de compte Nivatech  et qui reçoivent des services de livraison commandés par d'autres propriétaires de compte Nivatech; ou par des amis, des membres de la famille ou d'autres propriétaires de compte individuels et les bénéficiaires de cartes-cadeaux.  
 
-How the Information is Used
-Providing and Improving Our Services
-We use the information collected to provide and improve our services, process transactions, and enhance the user experience. This includes personalizing content and communications, ensuring site security, and developing new features.
+Les coordonnées des personnes qui gèrent et utilisent des comptes appartenant à des clients d'entreprise ; ou les données des personnes qui commencent mais ne terminent pas leur candidature pour devenir livreurs. Toutes les personnes concernées par le présent avis sont dénommées « utilisateurs » dans le présent avis. 
 
-Marketing and Communications
-With your explicit consent, we may use your information to send newsletters, special offers, and product updates. You can opt out of these communications at any time.
+Nos pratiques en matière de confidentialité sont soumises aux lois applicables dans les pays où nous exerçons nos activités. Cela signifie que nous n'appliquons les pratiques décrites dans le présent avis dans un pays ou une région en particulier que si les lois de ces pays le permettent. Veuillez également noter ce qui suit : 
 
-Data Retention and Deletion Policy
-We do not retain user data beyond the necessary time required to complete transactions and fulfill orders. Location data, for example, is used during the session for delivery purposes and is discarded after the order is completed unless retained for delivery logs. Users can request the deletion of their personal information by contacting us directly.
+Pour les utilisateurs du monde entier : Nivatech  traite les données des utilisateurs au motif que cela est nécessaire pour respecter les termes de nos accords avec ces utilisateurs, ou sur la base de leur consentement. 
 
-Information Sharing
-Third-Party Sellers
-We may share your personal information with third-party sellers to process your orders and facilitate deliveries.
+ 
 
-Service Providers
-We also share information with service providers who assist in operating our platform, such as payment processors, hosting services, and technical support.
+III. Collectes et utilisations des données 
 
-Legal Compliance
-We may disclose your information if required by law or to protect our rights and safety.
+A. Les données que nous collectons 
 
-Data Security Measures
-We use industry-standard security measures to protect your personal information. For payments, we rely on secure third-party gateways (Stripe, PayPal) that use encryption and 3D authentication to process transactions securely. We do not see, store, or manage your payment information.
+Nivatech  collecte des données : fournis par les utilisateurs à Nivatech créés lors de l'utilisation de nos services d'autres sources Veuillez consulter ici un résumé des données que nous collectons et de la manière dont nous les utilisons. 
 
-Your Rights
-You have the right to access, correct, or delete your personal information and withdraw consent for its processing where applicable. You can manage these settings in your account or contact us directly.
+Nivatech collecte les données suivantes à partir de ces sources : 
 
-Cookies
-We use cookies to improve your experience on our Site. You can manage your cookie preferences through your browser settings. For more details, refer to our Cookie Policy.
+Données fournies par les utilisateurs. 
 
-Changes to the Privacy Policy
-We may update this privacy policy periodically. Significant changes will be communicated through notifications on our Site, and the revision date will be updated accordingly.
+Cela comprend : 
 
-Contact Us
-For questions or concerns regarding this privacy policy, please contact us at:
+Informations sur le compte : nous collectons des données lorsque les utilisateurs créent ou mettent à jour leur compte Nivatech, ou passent des commandes via les fonctionnalités de paiement en tant qu'invité. Ces données comprennent le prénom et le nom, l'adresse e-mail, le numéro de téléphone, le nom d'utilisateur et le mot de passe, l'adresse, la photo de profil, les informations de paiement ou bancaires (y compris les informations de vérification de paiement associées), les paramètres utilisateur (y compris les paramètres d'accessibilité) et les informations sur le programme de fidélité des partenaires Nivatech. Pour les clients et les livreurs, ces données comprennent également les informations sur le véhicule ou l'assurance, les coordonnées d'urgence et les preuves de santé ou d'aptitude à fournir des services via les applications Nivatech. 
 
-Email: info@nivatech.elementfx.com
-Address: Nivatech, 1 Ronelle Street, Haazandal, Brackenfell, 7560.
-Revision Date: July 15, 2024
+Informations de vérification des antécédents livreurs : cela inclut les informations soumises lors du processus de candidature au poste de livreur, telles que l'historique du livreur. Ces informations peuvent être collectées par les fournisseurs de services Nivatech .  
 
+Documents et photos de vérification d'identité : cela inclut les pièces d'identité émises par le gouvernement, telles que le permis de conduire ou le passeport (qui peuvent contenir des photos et des numéros d'identification, la date de naissance et le sexe), ainsi que les photos soumises par l'utilisateur, telles que les selfies et les photos de profil. 
+
+ 
+
+ 
+
+ 
+
+Données créées lors de l'utilisation de nos services.  
+
+Cela comprend : 
+
+Données de localisation du livreur : nous collectons des données de localisation précises et approximatives à partir des appareils mobiles des livreurs lorsque l'application Nivatech  s'exécute au premier plan (application ouverte et à l'écran) ou en arrière-plan (application ouverte mais pas à l'écran).  
+
+Données de localisation (destinataires de commandes) . Nous collectons des informations de localisation précises et/ou approximatives à partir des appareils mobiles des destinataires de commandes s'ils nous le permettent via les paramètres de leur appareil. 
+
+Nivatech collecte ces données à partir du moment où une commande est demandée jusqu'à ce qu'elle soit terminée, et à chaque fois que l'application est exécutée au premier plan (application ouverte et à l'écran). Les destinataires de commandes peuvent utiliser les applications Nivatech sans activer la collecte de données de localisation à partir de leurs appareils mobiles. Cependant, cela peut affecter certaines fonctionnalités des applications Nivatech . Par exemple, un client qui n'a pas activé les données de localisation précises devra saisir manuellement son adresse de prise en charge. De plus, les données de localisation précises collectées à partir de l'appareil d'un livreur pendant un trajet sont liées au compte du client, même si le livreur n'a pas activé la collecte de données de localisation précises à partir de son appareil. Ces données sont utilisées à des fins telles que le support client, la détection des fraudes, les assurances, les litiges et la génération de reçus. 
+
+Informations sur les transactions : nous collectons des informations sur les transactions liées à l'utilisation de nos services, notamment le type de services demandés ou fournis ; les détails de la commande (tels que la date et l'heure, les adresses de prise en charge et de retour demandées et les articles commandés, tels que la nourriture, les médicaments sur ordonnance ou d'autres articles de livraison) ; et les informations sur les transactions de paiement (telles que le nom et l'emplacement d'un restaurant ou d'un commerçant, le montant facturé et le mode de paiement). Nous associons également le nom d'un utilisateur à celui de toute personne qui utilise son code promotionnel. Cela inclut également les informations fournies par les utilisateurs lors de la passation de leur commande, telles que les informations sur leurs allergies. 
+
+Données d'utilisation : nous collectons des données sur la manière dont les utilisateurs interagissent avec nos services. Cela comprend les dates et heures d'accès, les fonctionnalités de l'application ou les pages consultées, les plantages de l'application et d'autres activités du système. 
+
+Données sur l'appareil : nous collectons des données sur les appareils utilisés pour accéder à nos services, y compris les modèles de matériel, l'adresse IP de l'appareil ou d'autres identifiants d'appareil uniques, les systèmes d'exploitation et les versions, les logiciels, les langues préférées, les identifiants publicitaires, les données de mouvement de l'appareil et les données du réseau mobile. 
+
+Données de communication : nous collectons des données concernant les communications entre les utilisateurs activées via les applications Nivatech. Cela comprend le type de communication (téléphone, SMS ou message intégré à l'application), la date/heure et le contenu (y compris les enregistrements d'appels téléphoniques uniquement lorsque les utilisateurs sont informés de l'enregistrement à l'avance). 
+
+ 
+
+Données provenant d'autres sources.  
+
+Celles-ci comprennent : 
+
+Les utilisateurs participant à nos programmes de parrainage. Par exemple, lorsqu'un utilisateur parraine une autre personne, nous recevons les données de la personne parrainée de la part de cet utilisateur.  
+
+Les propriétaires de compte Nivatech qui demandent des services pour ou au nom d'autres utilisateurs (tels que des amis ou des membres de la famille), ou qui permettent à d'autres utilisateurs de demander ou de recevoir des services via leurs comptes professionnels (tels que les clients d'entreprise).  
+
+Les utilisateurs ou autres personnes fournissant des informations dans le cadre de réclamations ou de litiges. Partenaires commerciaux Nivatech par l'intermédiaire desquels les utilisateurs créent ou accèdent à leur compte Nivatech, tels que les fournisseurs de paiement, les services de médias sociaux ou les applications ou sites Web qui utilisent les API de Nivatech ou dont Nivatech utilise les API. 
+
+Partenaires commerciaux de Nivatech en relation avec des cartes de débit ou de crédit émises par une institution financière en partenariat avec Nivatech dans la mesure divulguée dans les conditions générales de la carte. Prestataires de services qui nous aident à vérifier l'identité des utilisateurs, leurs informations d'origine et leur éligibilité à travailler, à détecter les fraudes et à filtrer les utilisateurs dans le cadre des sanctions, de la lutte contre le blanchiment d'argent ou des exigences de connaissance du client. Prestataires d’assurance, les livreurs. Sociétés de transport partenaires (pour les livreurs qui utilisent nos services via un compte associé à une telle société). Sources accessibles au public. Partenaires marketing et prestataires de services, y compris les banques dans le cadre de programmes de remise en argent et les revendeurs de données. Les responsables de l’application des lois, les responsables de la santé publique et d’autres autorités gouvernementales. 
+
+  
+
+ B. Comment nous utilisons les données 
+
+Nivatech utilise les données pour proposer des livraisons et d'autres produits et services fiables et pratiques. 
+
+Nous utilisons également les données : pour améliorer la sécurité de nos utilisateurs et de nos services pour le support client pour la recherche et le développement pour permettre les communications entre les utilisateurs pour le marketing et la publicité pour envoyer des communications non commerciales aux utilisateurs dans le cadre d'une procédure judiciaire Veuillez consulter ici un résumé des données que nous collectons et de la manière dont nous les utilisons. 
+
+Nivatech utilise les données que nous collectons : 
+
+Pour fournir nos services. 
+
+Nivatech utilise les données pour fournir, personnaliser, maintenir et améliorer ses services. 
+
+Cela comprend l'utilisation des données pour : créer/mettre à jour des comptes. Permettre la livraison et d’autres services/fonctionnalités, tels que : utiliser les données de localisation pour naviguer dans les points de prise en charge des clients et de dépôt des commandes, calculer les ETA et suivre la progression des livraisons. Activer des fonctionnalités qui impliquent le partage de données, telles que le partage du prénom du livreur pour faciliter les prises en charge, ou des fonctionnalités qui permettent le partage de l'ETA et le partage des tarifs. 
+
+Mise en correspondance des livreurs disponibles avec les utilisateurs demandant des services, notamment en fonction de données personnelles telles que la localisation et la proximité avec d'autres utilisateurs, les paramètres/préférences des utilisateurs (tels que les destinations préférées). Dans certains pays*, et/ou en lien avec des programmes tels que Nivatech Pro ou Nivatech One ou des produits comme Nivatech Reserve, les correspondances sont également déterminées à l'aide des taux d'annulation, des notes et des informations sur le comportement des utilisateurs. 
+
+Activation de fonctionnalités impliquant la liaison de compte, telles que la liaison avec des programmes de récompense tiers tels que Marriott Bonvoy, et l'accès à Nivatech mart via l'application Nivatech. Faciliter et optimiser la réservation. Calcul des prix et des tarifs, notamment à l'aide des données de localisation et de la commande (tels que les adresses de prise en charge et de restitution demandées). Nous pouvons également prendre en compte des données ou des facteurs non personnels, notamment la date et l'heure, la distance et la durée estimées, les tarifs de base minimum, les péages, les taxes et les frais, ainsi que les prix majorés. Traiter les paiements et activer les produits de paiement et de monnaie électronique tels que Nivatech Wallet . 
+
+ 
+
+Personnaliser les comptes des utilisateurs. 
+
+Par exemple, nous pouvons présenter aux destinataires de commandes des recommandations personnalisées de restaurants ou de plats en fonction de leurs commandes précédentes et du lieu de livraison. Faciliter les solutions d’assurance, de facturation ou de financement. Fournir aux utilisateurs des mises à jour sur les livraisons, générer des reçus et les informer des modifications apportées à nos conditions, services ou politiques. Effectuer les opérations nécessaires à la maintenance de nos services, notamment pour résoudre les bugs logiciels et les problèmes opérationnels. Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires pour respecter les termes de nos accords avec les utilisateurs, sont compatibles avec de telles utilisations ou sont nécessaires aux fins des intérêts légitimes de Nivatech et de ses utilisateurs. 
+
+ 
+
+       2.  Sécurité, protection contre la fraude et sûreté. 
+
+Nous utilisons les données pour contribuer à maintenir la sécurité et l'intégrité de nos services et de nos utilisateurs. Cela comprend : vérifier les comptes des utilisateurs, leur identité ou leur conformité aux exigences de sécurité. Par exemple, nous examinons les antécédents des livreurs (y compris les antécédents criminels lorsque la loi l'exige ou le permet) pour vérifier leur identité et leur éligibilité à fournir des livraisons. 
+
+Nous pouvons également procéder à une vérification de l'identité des destinataires de la commande à l'aide des noms, des e-mails, des numéros de téléphone, des informations de paiement et des portefeuilles tiers, afin de dissuader l'utilisation de nos services par des comptes frauduleux. Nous exigeons également une vérification de l'identité et/ou de l'âge de l'utilisateur pour utiliser des méthodes de paiement telles que les espèces, recevoir des livraisons d'alcool ou de cannabis. 
+
+Nous traitons et comparons les photos de profil des utilisateurs, les photos et numéros d'identification émis par le gouvernement, ou d'autres photographies soumises par l'utilisateur pour effectuer cette vérification.  
+
+Nous utilisons également cette fonctionnalité pour vérifier les changements d'informations de compte bancaire et pour faciliter la récupération de l'accès au compte. Nous pouvons utiliser ces données et les données des appareils des livreurs pour vérifier le type de véhicule qu'ils utilisent pour effectuer les livraisons. En utilisant les informations du service client (y compris les rapports d'incidents de sécurité), les données de transaction et d'utilisation pour identifier les livreurs.  
+
+Cela peut conduire les livreurs à recevoir des messages encourageant une conduite plus sûre et/ou la désactivation du compte après examen humain. En utilisant le compte, l'appareil, la localisation, l'utilisation, la transaction, l'opérateur sans fil et d'autres données, y compris les communications entre les utilisateurs et les métadonnées, pour prévenir, détecter et lutter contre la fraude, y compris par les utilisateurs invités. Utiliser les incidents signalés, les notes des utilisateurs* et d'autres commentaires pour encourager une utilisation sûre de la plateforme Nivatech  et le respect de nos conditions et comme motif de désactivation des utilisateurs ayant de mauvaises notes. En utilisant les données du conducteur (telles que les informations sur les livraisons passés et les taux d'incidents signalés) et les données du client (telles que les informations sur le compte, les taux d'annulation et d'incidents signalés, le lieu de prise en charge et de dépose actuel, les informations sur les notes) pour prédire et aider à éviter les appariements d'utilisateurs qui peuvent entraîner un risque accru de conflit. * 
+
+Nous évitons également les appariements dans lesquels un utilisateur a précédemment attribué à l'autre une note faible (par exemple, 1 étoile). en utilisant l'emplacement, le numéro de téléphone, le nom d'utilisateur, les détails du véhicule et d'autres informations pertinentes pour fournir une assistance en direct d'experts en sécurité pendant les livraisons. Les activités de prévention et de détection de la fraude et de la conduite dangereuse décrites ci-dessus peuvent être considérées comme du profilage en vertu des lois applicables et peuvent entraîner la désactivation des utilisateurs (généralement uniquement après examen humain).  Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires pour respecter les conditions de nos accords avec les utilisateurs et/ou aux fins des intérêts légitimes de sécurité et de sûreté de Nivatech, de nos utilisateurs et des membres du grand public. 
+
+  
+
+   3. Assistance client. 
+
+Nous utilisons les informations que nous collectons (qui peuvent inclure des enregistrements des journaux de discussion intégrés à l'application et des images de caméra embarquée) pour fournir une assistance client, notamment pour enquêter sur les préoccupations des utilisateurs et y répondre, ainsi que pour surveiller et améliorer nos réponses et processus d'assistance client. Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires pour respecter les conditions de nos accords avec les utilisateurs ou aux fins des intérêts légitimes de Nivatech dans le suivi et l'amélioration de ses services d'assistance client. 
+
+4. Recherche et développement. 
+
+Nous utilisons les données à des fins d'analyse, d'apprentissage automatique, de développement de produits, de recherche et de tests. Cela nous aide à rendre nos services plus pratiques et plus faciles à utiliser, à améliorer la sécurité de nos services et à développer de nouveaux services et fonctionnalités. Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires aux fins des intérêts légitimes de Nivatech  dans l'amélioration et le développement de nouveaux services et fonctionnalités. 
+
+5. Permettre la communication entre les utilisateurs. 
+
+Par exemple, un livreur peut envoyer un message ou appeler un client pour confirmer un lieu de prise en charge, un client peut appeler un restaurant ou un livreur peut contacter un destinataire de commande avec des informations sur sa commande. Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires pour respecter les conditions de nos accords avec les utilisateurs. 
+
+6. Marketing et publicité. 
+
+Nivatech utilise des données (autres que celles des utilisateurs invités) pour commercialiser ses services et ceux des partenaires Nivatech. Nous utilisons spécifiquement les données de compte, de localisation approximative, d'appareil et d'utilisation, la langue préférée et l'historique des commandes pour fournir des publicités et des communications marketing personnalisées en fonction de la localisation, des intérêts et des caractéristiques observés ou déduits des utilisateurs (qui peuvent inclure le sexe déduit*). Cela comprend l’utilisation de ces données pour : envoyer des e-mails, des SMS, des notifications push et des messages intégrés à l'application ou d'autres communications marketing ou publicitaires concernant les produits, services, fonctionnalités, offres, promotions, tirages au sort, actualités et événements Nivatech. Par exemple, nous pouvons envoyer des notifications push suggérant les destinations ou les commerçants préférés d'un utilisateur, ou des messages intégrés à l'application proposant des remises ou des promotions pour des produits ou des commerçants similaires à ceux qu'un utilisateur a déjà commandés. afficher des publicités personnalisées sur des applications ou des sites Web tiers. afficher des publicités de tiers dans les applications Nivatech ou en lien avec nos services. Par exemple, nous affichons des publicités pour des restaurants ou des commerçants disponibles sur les applications Nivatech. Ces publicités (qui sont identifiées comme des « annonces sponsorisées » dans les applications Nivatech) incluent des recommandations personnalisées en fonction de la localisation des utilisateurs et de l'historique de leurs commandes. 
+
+  
+
+Nous affichons également des publicités pour des produits tiers qui ne sont pas disponibles sur les applications Nivatech. Ces publicités peuvent contenir des liens vers des applications ou des sites Web tiers. Les utilisateurs doivent se référer aux avis de confidentialité de ces tiers pour obtenir des informations sur la collecte et l'utilisation des données lorsqu'ils visitent ces applications ou sites Web. Nous proposons également des publicités personnalisées en fonction des données relatives au trajet ou à la demande de livraison en cours des utilisateurs, notamment l'heure de la demande et les services demandés. Par exemple, si un utilisateur demande à se rendre dans un supermarché, nous pouvons afficher des publicités intégrées à l'application pour des produits tiers qui peuvent être disponibles dans ce supermarché. Nous mesurons également l'efficacité des publicités de Nivatech et des publicités tierces affichées dans les applications de Nivatech ou en relation avec nos services. 
+
+Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires aux fins des intérêts légitimes de Nivatech visant à informer les utilisateurs sur les services et fonctionnalités de Nivatech  ou ceux proposés par les partenaires de Nivatech. 
+
+   7. Communications non commerciales. 
+
+Nivatech peut utiliser les données pour envoyer des enquêtes et d'autres communications qui ne sont pas destinées à commercialiser les services ou produits de Nivatech ou de ses partenaires. Nous pouvons également envoyer aux utilisateurs des communications concernant des élections, des scrutins, des référendums et d'autres processus politiques liés à nos services. Par exemple, Nivatech a informé les utilisateurs de mesures de vote ou de législation en cours concernant les services de Nivatech  dans les zones de ces utilisateurs.  
+
+Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires pour remplir les conditions de nos accords avec les utilisateurs, ou aux fins des intérêts légitimes de Nivatech et de ses utilisateurs à informer les utilisateurs sur des événements qui peuvent avoir un impact sur leur utilisation des services de Nivatech. 
+
+   8. Procédures et exigences légales. 
+
+Nous utilisons les données pour enquêter sur les réclamations ou litiges relatifs à l'utilisation des services de Nivatech ou pour les traiter, pour satisfaire aux exigences des lois, réglementations, licences ou accords d'exploitation, polices d'assurance, ou en vertu d'une procédure judiciaire ou d'une demande gouvernementale, y compris de la part des forces de l'ordre. Nivatech effectue les activités ci-dessus au motif qu'elles sont nécessaires aux fins des intérêts légitimes Nivatech dans l'enquête et la réponse aux réclamations et litiges relatifs à l'utilisation des services et fonctionnalités de Nivatech, et/ou nécessaires au respect des exigences légales applicables. 
+
+C. Partage et divulgation des données  
+
+Certains services et fonctionnalités de Nivatech nécessitent que nous partagions des données avec d'autres utilisateurs, à la demande des utilisateurs ou avec leur consentement. Nous pouvons également partager ces données avec nos sociétés affiliées, filiales et partenaires, pour des raisons juridiques ou dans le cadre de réclamations ou de litiges.  
+
+Nivatech peut partager des données :  
+
+Avec d'autres utilisateurs Cela inclut le partage : prénom des clients, note et lieux de prise en charge et/ou de dépose auprès des livreurs. Le prénom des clients est associé à celui des autres clients d'un autre information. Commander le prénom et les détails de la commande des destinataires, y compris les articles commandés, les allergies ou les préférences alimentaires et les instructions spéciales, avec d'autres destinataires dans une commande de groupe. Nous pouvons également communiquer au restaurant ou au commerçant et, pour les livraisons de commandes, au livreur, le prénom, l'adresse de livraison et les informations relatives à la commande (y compris les prescriptions de médicaments, les instructions spéciales, les allergies ou les préférences alimentaires) des destinataires de la commande. Nous pouvons également partager les notes et les commentaires, ou d'autres informations dans la mesure requise par la loi, avec le restaurant ou le commerçant et, pour les livraisons de commandes, avec le livreur.  
+
+Pour  les livreurs, nous pouvons partager des données avec les destinataires de la commande et les restaurants ou commerçants, notamment le nom et la photo ; la marque, le modèle, la couleur, la plaque d'immatriculation et la photo du véhicule ; la localisation (avant et pendant le trajet) ; la note moyenne fournie par les utilisateurs ; le nombre total de trajets ; la période écoulée depuis leur inscription en tant que  livreur ; les coordonnées ; et le profil  du livreur, y compris les compliments et autres commentaires soumis par les anciens utilisateurs.  
+
+Pour les livreurs qui s'identifient comme sourds ou malentendants via nos paramètres d'accessibilité intégrés à l'application, nous partagerons ces informations avec les destinataires de la commande. Nous fournissons également aux destinataires de la commande des reçus contenant des informations telles qu'une répartition des montants facturés, le prénom du livreur, une photo et un plan d'itinéraire. Nous incluons également d'autres informations sur ces reçus si la loi l'exige.  
+
+Avec un propriétaire de compte lorsqu'il est utilisé par une autre personne, par exemple lorsqu'un destinateur de commande utilise le profil Nivatech for Business de son employeur, lorsqu'un destinataire de commande utilise un compte lié à son profil familial, lorsqu'un livreur utilise un compte détenu ou associé à une société de transport ou un restaurant partenaire de Nivatech ou lorsqu'un livreur agit en tant que remplaçant. De plus, si un utilisateur crée un compte en utilisant une adresse e-mail affiliée à un propriétaire de compte Nivatech for Business (c'est-à-dire son employeur), nous pouvons utiliser et partager ses données de profil (telles que son nom et son adresse e-mail) avec ce propriétaire de compte, afin d'aider cet utilisateur à payer ses déplacements ou ses commandes sur ce compte Nivatech for Business.* pour ceux qui participent au programme de parrainage de Nivatech, nous partageons certaines données des utilisateurs parrainés, telles que le nombre de commandes, avec l'utilisateur qui les a parrainés, si nécessaire pour déterminer le bonus de parrainage. 
+
+À la demande des utilisateurs ou avec leur consentement. Cela inclut le partage de données avec : D'autres personnes à la demande d'un utilisateur. Par exemple, nous partageons l'heure d'arrivée prévue et la position d'un utilisateur avec un ami lorsque celui-ci le demande.  
+
+Partenaires commerciaux de Nivatech.  
+
+Par exemple, si un utilisateur demande un service via un partenariat ou une offre promotionnelle proposée par un tiers, peut Nivatech partager certaines données avec ces tiers. Il peut s'agir, par exemple, d'autres services, plateformes, applications ou sites Web qui s'intègrent à nos API ; de fournisseurs ou de services de véhicules ; de ceux qui disposent d'une API ou d'un service avec lequel nous nous intégrons ; ou de restaurants, de commerçants ou d'autres partenaires commerciaux de Nivatech et de leurs utilisateurs dans le cadre de promotions, de concours ou de services spécialisés.  
+
+Commerçants ou restaurants.  
+
+Si le destinataire d'une commande ajoute un numéro de membre de fidélité à son compte utilisateur,  Nivatech partagera son numéro de membre de fidélité et les détails de sa commande avec ce commerçant ou ce restaurant lorsqu'il passera une commande. Les destinataires d'une commande peuvent également choisir de partager leurs coordonnées et les détails de leur commande avec un commerçant ou un restaurant spécifique pour recevoir des communications marketing de ce commerçant ou de ce restaurant. Grand public. Les questions ou commentaires des utilisateurs soumis via des forums publics tels que les blogs Nivatech et les pages de médias sociaux Nivatech peuvent être visibles par le public, y compris toutes les données incluses dans les questions ou commentaires soumis par un utilisateur. 
+
+Avec les filiales et sociétés affiliées de Nivatech Nous partageons des données avec nos filiales et sociétés affiliées pour nous aider à fournir nos services ou à effectuer le traitement des données en notre nom. Par exemple, Nivatech traite et stocke ces données aux États-Unis pour le compte de ses filiales et sociétés affiliées internationales. 
+
+Avec les prestataires de services et partenaires commerciaux de Nivatech Il s'agit notamment des tiers ou des catégories de tiers répertoriés ci-dessous. Lorsqu'un tiers est identifié, veuillez consulter ses avis de confidentialité liés pour obtenir des informations sur la collecte et l'utilisation des données personnelles. Processeurs et facilitateurs de paiement, notamment PayPal et Hyperwallet .  
+
+Fournisseurs de vérification des antécédents, de vérification d’identité et de solutions de gestion des risques. Fournisseurs de stockage en cloud. Plateforme de support client et prestataires de services. Google, en lien avec l'utilisation de Google Maps dans les applications Nivatech. Des sociétés de médias sociaux, dont Facebook et TikTok , en lien avec l'utilisation par Nivatech de leurs outils dans les applications et sites Web de Nivatech. Partenaires marketing et fournisseurs de plateformes marketing, notamment les services de publicité sur les réseaux sociaux, les réseaux publicitaires, les fournisseurs de données tiers et d'autres fournisseurs de services pour atteindre ou mieux comprendre nos utilisateurs et mesurer l'efficacité de la publicité. 
+
+Cela inclut les intermédiaires publicitaires, tels que The Trade Desk, Google, Criteo et Rokt et d'autres, qui permettent à Nivatech d'afficher et/ou de mesurer l'efficacité des publicités personnalisées pour les produits tiers qui sont affichés dans les applications de Nivatech. Nous partageons des données - y compris l'identifiant publicitaire ou de l'appareil, l'adresse e-mail hachée, l'emplacement approximatif, les informations sur le trajet ou la commande en cours et les données d'interaction publicitaire - avec ces intermédiaires pour activer leurs services et à d'autres fins divulguées dans leurs avis de confidentialité.   
+
+Pour plus d'informations sur les pratiques de confidentialité de ces intermédiaires, y compris sur la manière de leur soumettre des demandes concernant leur traitement des données personnelles, veuillez consulter leurs avis de confidentialité liés ci-dessus. Partenaires de recherche, y compris ceux qui effectuent des enquêtes ou des projets de recherche en partenariat avec Nivatech ou pour le compte de Nivatech. Prestataires de services qui aident Nivatech à améliorer la sécurité des applications et des services Nivatech. Des prestataires de services qui nous fournissent des outils et des services d’intelligence artificielle et d’apprentissage automatique. Comptables, consultants, avocats et autres prestataires de services professionnels. Partenaires d'assurance et de financement. Les compagnies d'assurance, dans le cadre de réclamations d'assurance faites ou signalées par un utilisateur concernant les services de Nivatech, et dans le but de régler ou de traiter la réclamation d'assurance. Aéroports. Fournisseurs de vélos et de scooters pouvant être loués via les applications Nivatech, telles que Lime et Tembici . Fournisseurs de véhicules tiers, y compris les partenaires de flotte et de location. 
+
+Pour des raisons juridiques ou en cas de litige, Nivatech peut partager les données des utilisateurs si nous pensons que cela est requis par la loi, la réglementation, la licence ou l'accord d'exploitation, une procédure judiciaire ou une demande gouvernementale, une police d'assurance, ou lorsque la divulgation est autrement appropriée en raison de préoccupations de sécurité ou similaires. Cela comprend le partage de données avec les forces de l'ordre, les responsables de la santé publique, d'autres autorités gouvernementales, les aéroports (si les autorités aéroportuaires l'exigent comme condition d'exploitation sur le terrain de l'aéroport), les compagnies d'assurance ou d'autres tiers, si nécessaire pour faire respecter nos Conditions de service, nos accords d'utilisation ou d'autres politiques ; pour protéger les droits ou la propriété de Nivatech ou les droits, la sécurité ou la propriété d'autrui ; ou en cas de réclamation ou de litige relatif à l'utilisation de nos services. 
+
+En cas de litige relatif à l'utilisation de la carte de crédit d'une autre personne, nous pouvons être tenus par la loi de partager les données d'un utilisateur, y compris les informations sur la commande, avec le propriétaire de cette carte de crédit. Cela inclut également le partage de données avec des tiers dans le cadre de, ou pendant les négociations relatives à, toute fusion, vente d'actifs de l'entreprise, consolidation ou restructuration, financement ou acquisition de tout ou partie de notre entreprise par ou dans une autre entreprise. 
+
+Avec le consentement d'un utilisateur, Nivatech peut partager les données d'un utilisateur autrement que comme décrit dans cet avis si nous en informons l'utilisateur et qu'il consent au partage. 
+
+D. Conservation et suppression des données  
+
+Nivatech conserve les données des utilisateurs aussi longtemps que nécessaire aux fins décrites ci-dessus. Les utilisateurs peuvent demander la suppression de leur compte via les applications et sites Web Nivatech.  
+
+Nivatech conserve les données des utilisateurs aussi longtemps que nécessaire aux fins décrites ci-dessus, ce qui varie en fonction du type de données, de la catégorie d'utilisateur à laquelle les données se rapportent, des finalités pour lesquelles nous avons collecté les données et si les données doivent être conservées après une demande de suppression de compte aux fins décrites ci-dessous. Par exemple, nous conservons des données : pendant la durée de vie des comptes des utilisateurs si ces données sont nécessaires pour fournir nos services.  
+
+Par exemple, les données de compte. Pendant 7 ans si nécessaire pour se conformer aux exigences fiscales. 
+
+Par exemple, les informations sur le lieu de livraison des livreurs. Pendant des périodes définies, selon les besoins, à des fins de sécurité ou de prévention de la fraude.  
+
+Les utilisateurs peuvent demander la suppression de leur compte via les menus Confidentialité de l'application Nivatech ou via le site Web de Nivatech. Suite à une demande de suppression de compte, nous supprimons le compte et les données de l'utilisateur, sauf si cela est nécessaire à des fins de sécurité, de prévention de la fraude ou de conformité aux exigences légales, ou en raison de problèmes liés au compte de l'utilisateur (comme un crédit impayé ou une réclamation ou un litige non résolu). Pour les livreurs, cela signifie généralement que nous conservons certaines de leurs données aussi longtemps que nécessaire pour des réclamations fiscales, des litiges ou des réclamations d'assurance réelles ou potentielles. 
+
+Pour les destinataires de commandes, nous supprimons généralement les données dans les 90 jours suivant une demande de suppression de compte, sauf lorsque la conservation est nécessaire pour les raisons susmentionnées. 
+
+ 
+
+IV. Choix et transparence  
+
+Nivatech permet aux utilisateurs d'accéder et/ou de contrôler les données que Nivatech collecte, notamment via : paramètres de confidentialité autorisations de l'appareil pages d'évaluation directement dans l'appareil  
+
+Choix marketing et publicitaire  
+
+Nivatech permet également aux utilisateurs de demander l'accès ou des copies de leurs données, d'apporter des modifications ou des mises à jour à leurs comptes, de demander la suppression de leurs comptes ou de demander à Nivatech de restreindre le traitement des données des utilisateurs. 
+
+Paramètres de confidentialité les destinataires de commandes peuvent définir ou mettre à jour leurs préférences concernant la collecte et le partage des données de localisation, les notifications dans le centre de confidentialité de Nivatech , accessible via le menu Confidentialité des applications Nivatech.  
+
+Collecte de données de localisation (destinataires de commandes) Les destinataires de commandes peuvent activer/désactiver la collecte par Nivatech des données de localisation de leur appareil mobile via les paramètres de leur appareil, accessibles via le menu Partage de localisation dans le Centre de confidentialité des applications Nivatech.  
+
+Partager la localisation en direct (destinataires de commandes) Les clients et les destinataires de commandes peuvent activer/désactiver le partage par Nivatech des données de localisation en temps réel de leur appareil mobile avec leurs livreurs (le cas échéant) via les paramètres de leur appareil, accessibles via le menu Partage de localisation dans le Centre de confidentialité des applications Nivatech. Identité de genre Les client peuvent mettre à jour leurs informations de genre via le menu Identité de genre, accessible dans le menu Publicités et données du Centre de confidentialité.  
+
+Notifications : remises et actualités Les utilisateurs peuvent autoriser Nivatech à envoyer des notifications push sur les remises et les actualités de Nivatech. Les utilisateurs peuvent contrôler s'ils reçoivent des notifications push ici. Accès aux applications tierces Les utilisateurs peuvent autoriser les applications tierces à accéder aux données de leur compte Nivatech pour activer des fonctionnalités supplémentaires. Les utilisateurs peuvent consulter/retirer l'accès des applications tierces ici ou via le Centre de confidentialité de Nivatech. 
+
+Autorisations de l'appareil  
+
+La plupart des plateformes d'appareils mobiles (iOS, Android, etc.) ont défini certains types de données d'appareils auxquels les applications ne peuvent pas accéder sans l'autorisation du propriétaire de l'appareil, et ces plateformes ont différentes méthodes pour obtenir cette autorisation. Les utilisateurs doivent vérifier les paramètres disponibles sur leurs appareils ou contacter leur fournisseur. 
+
+Pages d'évaluation intégrées à l'application Après chaque course, les livreurs et les clients peuvent s'évaluer mutuellement sur une échelle de 1 à 5. La moyenne de ces évaluations est associée au compte d'un utilisateur et est affichée aux autres utilisateurs pour lesquels il fournit ou reçoit des services. Par exemple, les évaluations des clients sont disponibles pour la livraison auprès desquels ils demandent un service, et les évaluations des livreurs sont disponibles pour leurs clients. Les clients peuvent voir leur note moyenne dans le menu principal de l'application Nivatech, et également accéder à une répartition de leur note moyenne dans le Centre de confidentialité de Nivatech . Les livreurs peuvent voir leur note moyenne après avoir appuyé sur leur photo de profil dans l'application Nivatech Delivery. Les livreurs peuvent également être évalués par les destinataires de la commande, les restaurants et les commerçants.  
+
+Choix en matière de marketing et de publicité  
+
+Nivatech offre aux utilisateurs les choix suivants concernant la manière dont leurs données sont utilisées à des fins de marketing et de publicité : Communications marketing personnalisées de Nivatech : les utilisateurs peuvent choisir ici si Nivatech peut utiliser leurs données pour envoyer des communications personnalisées (par exemple, des e-mails, des notifications push et des messages intégrés à l'application) sur les produits et services Nivatech. Les utilisateurs peuvent également choisir ici de recevoir des e-mails marketing ou des notifications push de Nivatech.  
+
+Partage et suivi des données : les utilisateurs peuvent choisir ici si Nivatech  peut partager leurs données avec des tiers ou collecter des données concernant leurs visites et actions sur des applications ou des sites Web tiers, à des fins de publicités personnalisées.  
+
+Demandes de données utilisateur Nivatech propose aux utilisateurs plusieurs moyens de s'informer, de contrôler et de soumettre des questions et des commentaires sur la gestion de leurs données par Nivatech.  
+
+Accès aux données et portabilité : selon l'endroit où ils se trouvent, les utilisateurs peuvent avoir le droit d'« accéder » à leurs données (c'est-à-dire d'être informés des données que Nivatech a collectées à leur sujet) et à la « portabilité » de leurs données (c'est-à-dire de recevoir une copie de ces données). Quel que soit leur emplacement, Nivatech propose plusieurs options pour consulter et obtenir des copies des données que Nivatech a collectées à leur sujet. Les utilisateurs peuvent accéder aux données, notamment aux données de leur profil et à l'historique de leurs trajets ou commandes, via les applications Nivatech ou via le site Web de Nivatech. Notre fonctionnalité Explorer vos données permet aux utilisateurs de consulter un résumé en ligne de certaines informations sur leur compte, telles que le nombre de commandes, la note, le statut des récompenses et le nombre de jours écoulés depuis qu'ils sont devenus utilisateurs de Nivatech. 
+
+Modification ou mise à jour des données : les utilisateurs peuvent modifier le nom, le numéro de téléphone, l'adresse e-mail, le mode de paiement et la photo de profil via le menu Paramètres des applications Nivatech. 
+
+Suppression des données : les utilisateurs supprimer leur compte via le Centre le menu compte de l'application Nivatech> suppression du comte.  
+
+  
+
+V. Mentions légales 
+
+A. Responsables du traitement et délégué à la protection des données Nivatech Technologies Inc. 
+
+est responsable des données traitées dans le cadre de l'utilisation des services de Nivatech à l'échelle mondiale, sauf lorsqu'elle est responsable conjointe avec d'autres sociétés affiliées de Nivatech Technologies Inc. (« UTI ») est responsable des données traitées dans le cadre des services de Nivatech à l'échelle mondiale, sauf que : UTI et UBR Pagos Mexico, SA de CV, sont responsables du traitement des données des utilisateurs des services de paiement et de monnaie électronique de Nivatech au Mexique. UTI, Nivatech BV et les entités Nivatech qui concluent des contrats avec des livreurs au Royaume-Uni sont des contrôleurs conjoints des données de ces livreurs aux fins de se conformer aux exigences britanniques en matière de licences et de droits des travailleurs. UTI et Nivatech BV sont, avec Nivatech Payments BV, responsables conjoints du traitement des données des utilisateurs des services de paiement et de monnaie électronique de Nivatech dans l'EEE, et avec Nivatech Payments UK Ltd. Pour les utilisateurs de ces services au Royaume-Uni. UTI et Nivatech BV sont les contrôleurs conjoints des données traitées dans le cadre de toutes les autres utilisations des services de nivatech dans l'EEE, au Royaume-Uni en Suisse et en Afrique. Les utilisateurs peuvent soumettre des demandes d'exercice de leurs droits concernant leurs données (courriers et destinataires de commandes ici ; livreurs ici ). Les utilisateurs peuvent également contacter le délégué à la protection des données de Nivatech à l'adresse https://nivatech.elementfx.com/food/privacy-policy, ou par courrier à Nivatech BV (Nivatech, 1 Ronelle Street, Haazandal, Brackenfell, 7560.), concernant les questions relatives au traitement de leurs données personnelles par Nivatech et à leurs droits en matière de protection des données. 
+
+  
+
+B. Cadre juridique des transferts de données Nivatech opère et traite les données des utilisateurs dans le monde entier. 
+
+Nous respectons les cadres juridiques applicables relatifs au transfert de données. Nivatech opère et traite les données des utilisateurs dans le monde entier. Cela peut entraîner le traitement de vos données personnelles dans des pays, y compris les États-Unis, dont les lois sur la protection des données peuvent différer de celles du pays où vous résidez. Cela comprend le traitement de vos données sur les serveurs de Nivatech aux États-Unis et le transfert ou l'autorisation d'accès à vos données à l'échelle mondiale, afin de : vous fournir des services partout où vous les demandez. Vous donnez accès à vos informations, telles que l'historique de vos commandes, partout où vous le demandez. Fournir un accès et des réponses aux agents du service client de Nivatech. Répondre aux demandes d’information des gouvernements ou des forces de l’ordre, si nécessaire. Nivatech s'engage à protéger les données personnelles de ses utilisateurs, quel que soit l'endroit où ils se trouvent, le lieu où leurs données personnelles sont traitées ou l'organisme par lequel elles sont traitées. 
+
+Cela implique la mise en œuvre de mesures mondiales pour protéger les données des utilisateurs, notamment : sécuriser les données des utilisateurs lors de leur transfert, notamment par cryptage, et au repos. Rendre obligatoire une formation à l’échelle de l’entreprise en matière de confidentialité et de sécurité des données. Mettre en œuvre des politiques et des procédures internes pour limiter l’accès aux données des utilisateurs et leur utilisation. Limiter l'accès du gouvernement et des forces de l'ordre aux données des utilisateurs, sauf lorsque la loi l'exige, en cas de menace imminente pour la sécurité ou si les utilisateurs ont consenti à cet accès. 
+
+Lorsque nous transférons des données utilisateur depuis l'EEE, le Royaume-Uni et la Suisse, nous le faisons sur la base de la nécessité de respecter nos accords avec les utilisateurs, le consentement, les décisions d'adéquation concernant le pays de transfert, et les mécanismes de transfert tels que les clauses contractuelles types adoptées par la Commission européenne (et leurs équivalents approuvés pour le Royaume-Uni et la Suisse), et le cadre de confidentialité des données UE-États-Unis (« UE-États-Unis DPF »), l'extension britannique au UE-États-Unis DPF et le cadre de confidentialité des données Suisse-États-Unis (« Suisse-États-Unis DPF »), tels qu'établis par le ministère américain du Commerce. 
+
+Ces données restent soumises au RGPD ou à des équivalents après un tel transfert. Les utilisateurs peuvent contacter Nivatech au sujet de ce qui précède, ou pour demander des copies des clauses contractuelles types applicables. UTI a certifié auprès du ministère du Commerce des États-Unis qu'elle adhère (1) aux principes du cadre de confidentialité des données UE-États-Unis concernant le traitement des données personnelles reçues des pays membres de l'EEE en s'appuyant sur le DPF UE-États-Unis, et du Royaume-Uni (et de Gibraltar) en s'appuyant sur l'extension britannique du DPF UE-États-Unis ; et (2) aux principes du cadre de confidentialité des données Suisse-États-Unis concernant le traitement des données personnelles reçues de Suisse en s'appuyant sur le DPF Suisse-États-Unis. En cas de conflit entre le présent avis et les principes mentionnés ci-dessus, les principes prévalent. Dans le cas où le DPF UE-États-Unis ou le DPF Suisse-États-Unis seraient invalidés, Nivatech transférera les données soumises à ces certifications en s'appuyant sur les autres mécanismes de transfert de données décrits ci-dessus. 
+
+  
+
+Veuillez noter ce qui suit : Portée : la certification DPF de Nivatech s'applique aux données personnelles provenant de l'EEE, du Royaume-Uni ou de la Suisse. Accès : Les utilisateurs ont le droit d'accéder à leurs données personnelles soumises à la certification DPF de Nivatech. Transfert ultérieur : Nivatech est responsable du transfert des données personnelles, sous réserve de leur certification à des tiers. Pour plus d'informations sur les parties auxquelles Nivatech peut transférer des données personnelles. Demande des forces de l'ordre : Nivatech est tenu, en vertu de la loi applicable, de partager les données des utilisateurs, y compris celles qui peuvent être soumises à la certification de Nivatech, conformément à une procédure légale ou à une demande gouvernementale, y compris des forces de l'ordre. Enquête et application : Nivatech est soumis aux pouvoirs d'enquête et d'application de la Federal Trade Commission des États-Unis. Questions et litiges. Conformément au DPF UE-États-Unis, à l'extension britannique au DPF UE-États-Unis et au DPF Suisse-États-Unis, Nivatech s'engage à résoudre les plaintes liées aux principes du DPF concernant notre collecte et notre utilisation de vos informations personnelles. Les clients et les destinataires des livraisons peuvent contacter Nivatech info@nivatech.elementfx.com, et les livreurs peuvent contacter info@nivatech.elementfx.com, pour toute question concernant notre conformité aux principes mentionnés ci-dessus. Ils peuvent également adresser une plainte à leur autorité locale de protection des données, et Nivatech collaborera avec cette autorité pour résoudre cette plainte. Dans certaines circonstances, le DPF prévoit le droit d'invoquer un arbitrage exécutoire pour résoudre les plaintes non résolues par d'autres moyens, comme décrit dans l'annexe I des principes du DPF.  
+
+C. Mises à jour de la présente déclaration de confidentialité Nous pouvons occasionnellement mettre à jour cet avis. 
+
+Nous pouvons occasionnellement mettre à jour cette politique. Si nous apportons des modifications importantes, nous en informerons les utilisateurs à l'avance via les applications Nivatech ou par d'autres moyens, tels que l'e-mail. Nous encourageons les utilisateurs à consulter régulièrement cette politique pour obtenir les dernières informations sur nos pratiques en matière de confidentialité. L'utilisation de nos services après une mise à jour constitue un consentement à l'avis mis à jour dans la mesure permise par la loi. Nivatech n'effectue pas les collectes ou utilisations de données indiquées par un astérisque (*) dans l'EEE, au Royaume-Uni ou en Suisse. 
